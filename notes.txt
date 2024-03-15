@@ -6,3 +6,6 @@ https://www.rabbitmq.com/docs/download
 https://www.rabbitmq.com/tutorials/tutorial-one-python
 https://www.rabbitmq.com/tutorials/tutorial-two-python
 https://www.rabbitmq.com/tutorials/tutorial-three-python
+https://www.rabbitmq.com/tutorials/tutorial-four-python
+https://www.rabbitmq.com/tutorials/tutorial-five-python
+https://www.rabbitmq.com/tutorials/tutorial-six-python
